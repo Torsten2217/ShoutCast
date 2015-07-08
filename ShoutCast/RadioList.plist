@@ -1,0 +1,2268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alternative</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>idobi Radio: New. Music. Unfiltered. idob</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=914897</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FM4</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=581319</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Alternative Rock X Radio (1.FM TM)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=641278</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>100Hitz - 90&apos;s Alternative</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1137189</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pinguin Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1648504</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DiscofoxFM - Dein Webradio Discofox</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=122187</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pinguin Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1355049</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - Channel X</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=561221</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Alternative Indie Mix.RadioimInternet.de Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1645258</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Def Con Radio: SomaFM&apos;s special mix</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=160572</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Superglider com DJ Cadbusca</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=321925</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Birmingham Mountain Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=195172</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Jacked FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=398497</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Adult Alternative</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99182193</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>100% BEATLES</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179547</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus Beatles</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179661</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A1Indie Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179550</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Indie Pop Rocks! [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=145885</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WKCR - Columbia University</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=171444</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WPRB 103.3 FM (Princeton, NJ)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=198573</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KBCS</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1418490</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RadioStrefa</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=159671</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Schwarze Welle - Das Radio mit den </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=74778</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Dark Dimensions: AutoDJ</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1636713</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>All Classic Alternative (90s) - Q101.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180495</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio RCU</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180033</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HARDCORERADIO.NL - Hardcore rad</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=53630</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>100Hitz - Indie</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1078382</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>IndieSpectrum Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1145050</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>fringesf</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99181122</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>[ DigitalGunfire.com ] - INDUSTRIAL</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=709938</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sanctuary Radio - Goth/Industrial Cha</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1591787</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SomaFM presents: Indie Pop Rocks! </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=119314</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>180</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180609</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>80s New Wave</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180471</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Devil&apos;s Night Radio!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9455301</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Carifun Lovers Reggae Roots Stream</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=34913</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>12punks.FM - Punk Rock Radio!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=63652</string>
+		</dict>
+	</array>
+	<key>Blues</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>BLUES RADIO (1.FM TM)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1270282</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Aardvark Blues FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=47798</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big Blue Swing.com-64Kbit: Playing m</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1458124</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BellyUp4Blues - The Only Ass Kicking </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=208458</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - BLUES RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=670076</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Blues Connection - On AIR - Blues Rock</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=84764</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>&apos;AddictedToRadio.com - Bar Rockin&apos; </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=45944</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Blues Radio UK</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1654782</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GotRadio - Bit O Blues</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9478473</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Azur BLUES</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179787</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>&quot;Con Alma de Blues&quot;</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179943</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Acoustic FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=74609</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A Better Classic Blues Vintage Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=23683</string>
+		</dict>
+	</array>
+	<key>Classical</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Venice Classic Radio Italia</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=22146</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CINEMIX</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=7540</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Classical.24</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=27717</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABC Classic</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=26559</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Classical WETA 90.9 FM - Washington</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=103145</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>www.shamfm.fm</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=511</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - OTTO&apos;s BAROQUE MUSICK </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=660387</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>***** GIO CLASSICS *****</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=98872</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pancholon Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=173026</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Classical Guitar</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=462557</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - OTTO&apos;s CLASSICAL MUSICK</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=648389</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Beethoven One</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=208660</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OE 1</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1598955</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - OTTO&apos;s CLASSICAL MUSICK</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=681463</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ambiance classique</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=189847</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Happyday Newage Radio EZ Channel</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1501894</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Classical 1</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179409</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WKSU 3 Classical</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9252894</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Beethoven Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179295</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Chopin</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=138170</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Bach</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179469</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Alhayafm</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=187866</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WMNR Fine Arts Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9477091</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A Better Classical Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=164867</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ancient FM - www.ancientfm.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=119777</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Allegro</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179799</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Indian Link RadioIndain Link</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=151295</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Barock Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=24509</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Bach</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=118215</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A1900 Classical</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=125080</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A&quot;CLASSIC&quot;FM-WEB</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=234749</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Audiophile Baroque</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=106407</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MozartRadio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179559</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Classic Composers Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179823</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Gumbe.com (Guine-Bissau) - 2</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=92717</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Air Classique</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179859</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Freez FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=157894</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Mozart</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=140955</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABC Opera</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179742</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABC Piano</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=176190</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Mozart Piano</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=175152</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Piano</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=65897</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>....::: NoName Music Saloon :::....Piano.</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=197191</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GotRadio - PIano Perfect</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=145370</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Mozart Symphony</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=178543</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABC Symphony</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=165471</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mozartiana</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=115458</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Vivaldi</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179763</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Haydn</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=273344</string>
+		</dict>
+	</array>
+	<key>Country</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE COUNTRY RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=34839</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABSOLUTELY COUNTRY HITS RADIO - (1.FM TM)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=678106</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>100Hitz - New Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1582315</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>100hitz - New Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1050709</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ke Buena | Ke Rica Suena!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=54114</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.fm - Real Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=557801</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Today&apos;s Hot Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=331656</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Tok - Sertanejo de Qualidade !</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=232868</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rdio Positiva Sertaneja</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=100962</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - Classic Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=678187</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Aaron FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=233495</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Irish Country Music Radio Studio 1</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=232639</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - Classic Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=605353</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Love Country USA (LoveCountryUSA.c</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=121040</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - COUNTRY ONE RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=715779</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - Classic Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=60734</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Passion Country Megantic</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=44437</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - U-S 181 +++(Hot Country) +++</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=453133</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Arman FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=123988</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - The FrontPorch * Bluegrass F</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=557317</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Boot Liquor: Americana roots music for</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=30340</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>The Bluegrass Mix - ONLY The Best For OUR Listeners!	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1552686</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HPR1: Traditional Classic Country from Heartland Public Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=155100</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Classic Country 1630</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=173801</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A Better Country Legends Classics Station	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179457</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A1 Country, Country Legends Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=353165</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NashvilleEdge</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179544</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Roothog Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99183600</string>
+		</dict>
+	</array>
+	<key>Decades</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Top Tonic</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=81037</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big R Radio - 70s 80s Pop Mix</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=36307</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1000 HITS Sweet Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=12104</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>colombiaromantica</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=159591</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RADIOUP.COM - THE OFFICE MIX - The Best Soft Rock And Pop</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=15337</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GOLDEN SIXTIES SEVENTIES EIGH</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180828</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1 PostawayRadio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=58871</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big R Radio - 107.7 The Mix</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=7739</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>bleudream-80</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179727</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://www.radionomy.com/vlaamseardennen	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=52708</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RADIO MAGDALENA</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179862</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Swing Worldwide</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=639191</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A Better 40s Wartime Music Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179391</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - BACK TO THE 50s &amp; 60s RADIO	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=37833</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - BACK TO THE 50s &amp; 60s RADIO	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=652316</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Bop</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=65504</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Classic Hits --- Home of The</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=153501</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Nostalgia</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=62406</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Classic Hits --- Home of The </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=559543</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Melodie - Volksmusik mit Herz - Radiomelodie</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=134823</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>britishsixtiesradio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179715</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Italian Graffiati - Musica anni 60 e 70</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=4999</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - 70&apos;s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=172193</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SoftRockRadio.net - Soft Classic Rock</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=89368</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE 70&apos;s POP RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=223248</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE 70&apos;s POP RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=717255</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big R Radio - Classic Rock</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=737133</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>&apos;AddictedToRadio.com - Quiet Storm A</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=100809</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ran FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=38869</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>&apos;AddictedToRadio.com - 70s Decade Pop Hits AAC+&apos;	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=235088</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Abacus.fm Easy 70s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179490</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Lite 80&apos;s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=167565</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - 80&apos;s Hairband Channel</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=33439</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>4U 80s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=162702</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big R Radio - 80s &amp; 90s Pop Mix!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=66192</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Big R Radio - 80s Metal FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=151535</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HARD ROCK HEAVEN - www.hrhradio.com - 80s 90s Hard Rock, Hair Metal, Glam</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=106750</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A Better 80s Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179934</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>80s Planet.com::80sPlanet.com, the 80s!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=21142</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ALL EURO 80&apos;s RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=169717</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ALL EURO 80&apos;s RADIO (1.FM TM)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=605777</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NAXI 80-e RADIO by KBC NET (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=67846</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RADIO fresh80s - Hier sind die Achtziger zuhause!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=357541</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>best80poprock</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180228</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>always 80s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179385</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>&apos;AddictedToRadio.com - 80s Lite Hits AAC&apos;	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=155305</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>80s Mixed</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=183154</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>madein80</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99181554</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - 90&apos;s Alternative</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=144342</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - 90&apos;s Country</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9494745</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Lite 90&apos;s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=114732</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Star 90&apos;s</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=237536</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>90&apos;s PARTY</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=208943</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ibero 90.9</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=84667</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dance90</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179631</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE 90&apos;s RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=49415</string>
+		</dict>
+	</array>
+	<key>Easy Listening</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>COOLfahrenheit 93</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=175821</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COOLfahrenheit 93</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=228841</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MusicRadio.in.th@By Pj NeoOne</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=228628</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COOLfahrenheit 93</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=132317</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMOOTH RIVIERA</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=192996</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AWFM 101.1 - Home &amp; Office Netradio </string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=94593</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Crystal Radio - Beautiful Music - Easy</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=163778</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sophisticated Easy Sounds</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=12464</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Heartbeat FM - Lovesongs &amp; Heartbreakers	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=34451</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>At Work 104 - Your All Day Office Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=66557</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lounge44</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=116639</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KLUX 89.5HD - Good Company</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99830</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>2CH Sydney&apos;s easy listening hits</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1606868</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Love Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=23236</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Magic FM Romania - www.magicfm.ro - Soft Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1660760</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>EuropaFM Romania</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=366853</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Jemne Melodie: jemne melodie live</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1279685</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Otvoreni</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9251152</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Magic FM Romania - www.magicfm.ro - Soft Music	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=24371</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio ZET</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=821</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>The Blend - An iStreamMusic Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=81780</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CHILLOUT LOUNGE RADIO (1.FM TM)	</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=651101</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RadionoMiX</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=195079</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>LOUNGE-RADIO.COM - swiss made</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=118764</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - CHILLOUT LOUNGE RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=82933</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>4clubbers fm</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=915</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mocha</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=239468</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spys and P.I.&apos;s too!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=109032</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Hit&apos;s My Music Zen</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=181719</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CHOCOLAT RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=121065</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>The Smooth Lounge</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179607</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WebLounge</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180465</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Alpenradio|Volksmusik</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=148701</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WRJQ Goodtime Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=151481</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>247PolkaHeaven</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=731755</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Space Station Soma from SomaFM.com [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=47205</string>
+		</dict>
+	</array>
+	<key>Electronic</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>: Ibiza Global Radio :</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=191450</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>LA X ELECTRONICA</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=87814</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FRISKY | feelin&apos; frisky?</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=47007</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>: Ibiza Global Radio (HD) for mobile dev</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=63746</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>VW Electronica</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179850</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dancetime.FM - Feel Alive! - Jukebox</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=230209</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DEEP HOUSE LOUNGE - [www.deephouselounge.com]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=186925</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>: IbizaSonica :</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9480264</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>: IbizaSonica :</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=284022</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dancetime.FM - Feel Alive! - Deejay</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=201151</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Space Station Soma: Tune in, turn on, space out. Ambient and mid-tempo electronica. [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=172525</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ElectricFM.com- America&apos;s Real Dance!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1565719</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BeirutNights.com Radio : Eurodance Trance Remixes Mediterranean Lebanese Arabic Greek French Italo</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1168254</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BLUE MARLIN IBIZA</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=58493</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>_-_P S Y C H E D E L I K . C O M-_- Ambient Psychedelic psychedelik</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=102928</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ambient Sleeping Pill</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=174830</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Nirvana Radio - Music for Meditation and Relaxatio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=75897</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Chromanova.fm presents: Progressive Chillout &amp; Ambient 24/7*</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=38394</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Birdsong.fm</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=122328</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>_-_P S Y C H E D E L I K . C O M-_- Ambient Psychedelic psychedelik</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=291271</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ZEN FOR YOU</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=69892</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ambient Sleeping Pill</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=30806</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Drone Zone [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=106459</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Nirvana Meditation Radio - The Best Meditation Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1446937</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Allegro Lounge</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=29804</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Drone Zone [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=211706</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - DESTINATION: SPA RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=678361</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ambient Sleeping Pill (low quality)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=56905</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Deep Space One: Deep ambient electronic and space music. [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=70674</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OCEAN WAVES AMBIENT</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=217191</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>24x7 Live Shows-NSBRadio.co.uk. The worlds biggest breaks &amp; breakbeat radio station - NSB Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=165925</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE TOP 40 RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=933381</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1 Radio Dance</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=198009</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.CLUB - WWW.RAUTEMUSIK.FM - 24H MIXED HANDS UP TRANCE DANCE TECHNO HARDSTYLE HOUSE AND MORE</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=17998</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TDI Radio: MP3 48kbps</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=12786</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE TOP 40 RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=691274</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Energy 98 - Dance Hits</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=221706</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - ABSOLUTE TOP 40 RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=545923</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PulsRadio - www.pulsradio.com - Dance Trance Techno House HandsUp - From France</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2000</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radioseven - www.radioseven.se</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=198582</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Crash Dance Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=127794</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TDI Radio: Untitled</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9459033</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Zona Dance FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99191021</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.FM - Energy 98 - Dance Hits</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=24037</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Capital FM Romania - www.CapitalFm.ro</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=311678</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radioparty.pl - KANAL GLOWNY</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=364770</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Zona Dance FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99191022</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Fusion Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=129725</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - DANCE ONE RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=708058</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NotRadio Auto PJ</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=49369</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AUTO DJ - VTO MIX</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=98233</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DISCO 89 / 88.9 FM - La Estacion Del Amor</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9250323</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>The Buzzoutroom...Chilled-out Ambient Downbeats</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=108610</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cafedelmar FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=198977</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Bassdrive - Worldwide Drum and Bass Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=120408</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DnBHeaven.com - Drum And Bass Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=309786</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.DRUMSTEP - WWW.RAUTEMUSIK.FM - 24H NON STOP DRUM AND BASS DUBSTEP AND MORE DNB!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=39428</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RNGlive</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179415</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radiomyme-TV</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99182046</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>A2R Rock</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179496</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NERadio Hardstyle - www.HardStyle.nu</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=881390</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.HOUSE (FUNKY) - WWW.RAUTEMUSIK.FM - 24H MIXED HOUSE DANCE ELECTRO FUNK MINIMAL AND MORE!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99194448</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>54house.fm - The Heartbeat Of House Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=15003</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AUDIOGROOVES.NET (SOUL #01) :: Deep House Soulful House</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=366703</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.BIGCITYBEATS - BY BIGCITYBEATS.DE AND RAUTEMUSIK.FM - 24H MIXED ELECTRONIC AND HOUSE MUSIC!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=61568</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AMBIENT AND LOUNGE</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=104315</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dogglounge Deep House Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=64221</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Electronic Global Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179421</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>(-- cliqhop --) blips&apos;n&apos;bleeps backed w/ beats. [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=223868</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>24/7 Drums.ro - Drum&amp;Bass Online Radio Station</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=711563</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>psyradio * fm - progressive</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=677783</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=87657</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Groove Salad [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=94181</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Groove Salad [SomaFM]</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2031</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Deep Mix Moscow Radio: deepmix.ru</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=65352</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.TRANCE - WWW.RAUTEMUSIK.FM - 24H MIXED VOCAL TRANCE PROGRESSIVE UPLIFTING HARD TECHNO AND MOR</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99195090</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - AMSTERDAM TRANCE RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=217084</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AH.FM - Leading Trance Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2001</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - AMSTERDAM TRANCE RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=694972</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Wyldwood Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99181167</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Elium</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99181575</string>
+		</dict>
+	</array>
+	<key>Folk</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>COOL radio - Beograd</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=47826</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://www.RomaniaRadio.ro - Radio Braila Dens FM 104,4 MHz</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=231579</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Folk Alley (( All Folk. All The Time. ))</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1273365</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio BN +38755228412 96 kbps</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=154907</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ok Radio 128Kbit/s Server EU</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1673155</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TURKURADYO.NET ... TURKU RADYO ... TURKURADYO.NET</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=162200</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RADIO LJUBIC PRNJAVOR</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=70258</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Irish Favourites - IRISH PUB RADIO - LIVE FROM IRELAND (IRISH, FOLK, CELTIC, BALLADS, STORIES)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=727867</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>liveireland Live From Dublin, Ireland.</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=759907</string>
+		</dict>
+	</array>
+	<key>Inspirational</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>MOGPA RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=24241</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NasyidFM | Wadah Hiburan Terkini | Malaysia</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1421153</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>STEREO APOCALIPSIS</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=57578</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Casa de Oracion Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=297505</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>El Fin Viene Pronto</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=87669</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sehion Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=214885</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Cultural TGN</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=147488</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rhema Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=324640</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Bautista Global 89.7 FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=88678</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>radioautenticacali</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=303515</string>
+		</dict>
+	</array>
+	<key>International</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Radio Carsija - Melli</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=188263</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Shanson 101.9 Kiev - 64kbps</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=18580</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Diab FM</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=229629</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SANKOFA RADIO - GHANA &amp; AFRICA&apos;s #1</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=54583</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Jat (Beograd - Srbija,Belgrade - Serbia): Untitled</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=19709</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Nas TDI Radio Beograd (Belgrade,Serbia): Untitled</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1397485</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rotana Radio Jordan - Powered By Zain Jordan</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=141524</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Maktoob DJ</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=230694</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio ListenArabic.com - Live Lebanese Radio Arabic Songs and Oriental Arabic Music</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=157783</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Melody.FM - Singapore 24/7 Online Chinese Music Radio (HITZ.FM)</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=107816</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Washington Chinese Radio</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=21360</string>
+		</dict>
+	</array>
+	<key>Jazz</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>ABC Lounge</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=101547</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TheJazzGroove.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=98600</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ABC Jazz</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=209680</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>1.FM - BAY SMOOTH JAZZ RADIO</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1133951</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KCSM Jazz91 * The Bay Area&apos;s Jazz Station * Listener Supported * www.kcsm.org * S364 *</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=80339</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>jazzheart.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=452298</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>411 FM - #1 For Smooth Jazz</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=291216</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>JAZZ.FM91 (CJRT-FM) HD Stream</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=18014</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>#MUSIK.LOUNGE - WWW.RAUTEMUSIK.FM - 24H SOUL FUNK DISCO SMOOTHJAZZ SOULFUL HOUSE LOUNGE LATIN MORE!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=230300</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WWNO 3 - Jazz - New Orleans</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1615292</string>
+		</dict>
+	</array>
+	<key>Latin</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Radio Saudade</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=65875</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://www.RomaniaRadio.ro - Radio Braila Dens FM 104,4 MHz</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=316333</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Super K 100.7 FM - La Vega | SuperKFM.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=126643</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Paisa Estereo</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=123600</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KaryaFM : Malaysia : Dunia Karya Penghibur Anda</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1668881</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>LA RADIO DE MODA</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=165426</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>super Vip</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=99182253</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>La Suprema Estacion</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=137131</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PANDASHOWRADIO.COM - Pranks in spanish, live from Mexico City, featuring El Panda Zambran</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1527606</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PANDASHOWRADIO.COM - Pranks in spanish, live from Mexico City, feat. El Panda Zambrano.</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1590892</string>
+		</dict>
+	</array>
+	<key>Metal</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>idobi Howl</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=15810</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RockRadio1.Com - Classic Hard Rock and Heavy Metal Mix, 24/7 Live Requests / www.rockradio1.com</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=558051</string>
+		</dict>
+	</array>
+	<key>Misc</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>www.requestradio.in.th</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=149762</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>AlTools</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=19035</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Tele Shalom</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2681</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Live Kirtan - Sri harmandir Sahib - Golden Temple</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1640384</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Adom 106.3FM Powered by Mediagh</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=102286</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RFM - Powered by SenewebNetworks: RFM DAKAR 94.0 SENEGAL</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=8752</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>www.altools.co.kr Top100</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=79315</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>95.5 Virgin Hitz</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1599623</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>181.fm - The Office : Your Office Friendly Station!</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=26002</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio 660 La Tremenda No. 1</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=276539</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Freedom Radio Gambia</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=148066</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Eazy1055</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=14659</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Okay 101.7FM Powered by Mediagh</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=188185</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Radio Noshmim Mizrahit</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=11542</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>933fm</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=206031</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NYMC - WPAT Web</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=180240</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cvc-Music ThaiMusicStation</string>
+			<key>Pls</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=45317</string>
+		</dict>
+	</array>
+</dict>
+</plist>

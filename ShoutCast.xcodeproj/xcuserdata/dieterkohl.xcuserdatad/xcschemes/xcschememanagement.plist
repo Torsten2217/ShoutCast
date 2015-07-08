@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Glance - ShoutCast WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Notification - ShoutCast WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ShoutCast WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ShoutCast.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6D0C869D1ADA70D700333C45</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6D73865E1AE0A4040007A787</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6D7386811AE0C1ED0007A787</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6DE4BB701AD82ACC00292011</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6DE4BB851AD82ACC00292011</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
